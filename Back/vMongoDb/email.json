@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "60257c7cdbec2f053c7fa643"
+  },
+  "email": "vanessateixeira@gmail.com"
+},{
+  "_id": {
+    "$oid": "60267a4fdbec2f053c7fa644"
+  },
+  "email": "Pablolima@gmail.com"
+},{
+  "_id": {
+    "$oid": "6026d91adbec2f053c7fa645"
+  },
+  "email": "PricilaAlcantre@gmail.com"
+},{
+  "_id": {
+    "$oid": "6026d938dbec2f053c7fa646"
+  },
+  "email": "FabioBarretotre@gmail.com"
+},{
+  "_id": {
+    "$oid": "6026d94bdbec2f053c7fa647"
+  },
+  "email": "Prilas@gmail.com"
+}]

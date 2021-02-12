@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "602139014785941a6cd62df9"
+  },
+  "categoria": "geladeira",
+  "descricao": "Geladeira Inox 2 portas - 110/220w",
+  "preco": 4000,
+  "precofinal": 2000,
+  "Imagem": "imagens/geladeira4.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62dfa"
+  },
+  "categoria": "geladeira",
+  "descricao": "Geladeira Branca de 500 litros, 2 portas.",
+  "preco": "6000.00",
+  "precofinal": "3000.00",
+  "Imagem": "geladeira1.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62dfb"
+  },
+  "categoria": "geladeira",
+  "descricao": "Geladeira Inox 2 portas / Linha Inox Eletrolux",
+  "preco": "2000.00",
+  "precofinal": "1500.00",
+  "Imagem": "geladeira4.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62dfc"
+  },
+  "categoria": "fogao",
+  "descricao": "Fogão 4 bocas com forno elétrico - automático",
+  "preco": "400.00",
+  "precofinal": "300.00",
+  "Imagem": "folgao.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62dfd"
+  },
+  "categoria": "folgao",
+  "descricao": "Fogão 6 bocas - Forno elétrico - 110/220.",
+  "preco": "600.00",
+  "precofinal": "500.00",
+  "Imagem": "fogao6.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62dfe"
+  },
+  "categoria": "fogao",
+  "descricao": "Fogão elétrico - 2 bocas automático",
+  "preco": "700.00",
+  "precofinal": "500.00",
+  "Imagem": "fogao2.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62dff"
+  },
+  "categoria": "microondas",
+  "descricao": "Microodas Philco - 18 litros - Inox.",
+  "preco": "600.00",
+  "precofinal": "300.00",
+  "Imagem": "microo.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62e00"
+  },
+  "categoria": "microondas",
+  "descricao": "Microodas preto - 10 litros- 110/220w.",
+  "preco": "500.00",
+  "precofinal": "450.00",
+  "Imagem": "microondas.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62e01"
+  },
+  "categoria": "microondas",
+  "descricao": "Microondas Branco - 8 litros 110 w.",
+  "preco": "600.00",
+  "precofinal": "300.00",
+  "Imagem": "microondas2.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62e02"
+  },
+  "categoria": "lava-louca",
+  "descricao": "Lava- louça 50 litros - linha branca.",
+  "preco": "1.900",
+  "precofinal": "1300.00",
+  "Imagem": "lava.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62e03"
+  },
+  "categoria": "geladeira",
+  "descricao": "Máquina de lavar roupa 10 litros - Linhas branca.",
+  "preco": "1500.00",
+  "precofinal": "1399.00",
+  "Imagem": "maquina.jpg"
+},{
+  "_id": {
+    "$oid": "602143924785941a6cd62e04"
+  },
+  "categoria": "Maquina de lavar",
+  "descricao": "Máquina de Lavar - linha branca - 18 litros",
+  "preco": "2000.00",
+  "precofinal": "1399.00",
+  "Imagem": "maquina2.jpg"
+}]
